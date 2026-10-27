@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated Electronics research article."
+title: "Betounis Robotics — Extreme-Point Averaging Orientation Estimation"
+type: software
+authors:
+  - family-names: Betounis
+    given-names: Ioannis
+preferred-citation:
+  type: article
+  title: "Evaluation of Real-Time Orientation Estimation Methods for Various Biological Objects with Irregular Shapes"
+  authors:
+    - family-names: Betounis
+      given-names: Ioannis
+    - family-names: Germanou
+      given-names: Panagiota
+    - family-names: Petrellis
+      given-names: Nikos
+    - family-names: Antonopoulos
+      given-names: Christos P.
+    - family-names: Voros
+      given-names: Nikolaos S.
+  journal: Electronics
+  year: 2026
+  volume: 15
+  issue: 21
+  doi: 10.3390/electronics15214974
